@@ -1,0 +1,70 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* background-color: rgb(44, 44, 126); */
+    background-image: url(https://t3.ftcdn.net/jpg/01/41/43/84/360_F_141438480_vZ4DSzbfLULyc41QDCMxuwM3TqouDkXz.jpg);
+    color: rgb(255, 255, 255)
+}
+
+a:hover{
+    font-size: 120%;
+}
+
+a:visited{
+    color: lightskyblue
+}
+
+.common{
+    position: static;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+
+.header{
+    position: static;
+    color: rgb(251, 216, 17);
+}
+
+.footer{
+    position: static;
+    text-align: center;
+    color: white;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-size: 400%;
+    color: rgb(251, 216, 17);
+    text-align: center;
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 225%;
+    color: rgb(251, 216, 17);
+    text-align: center;
+}
+
+h3{
+    font-size: 150%;
+    text-align: center;
+    color: lightskyblue;
+}
+
+img{
+    text-align: center;
+}
+
+ol{
+    text-align: center;
+}
+li{
+    list-style-position: inside;
+    text-align: left;
+    margin-left: 15%;
+}
+ul{
+    list-style-position: inside;
+    text-align: left;
+    margin-left: -18%;
+}

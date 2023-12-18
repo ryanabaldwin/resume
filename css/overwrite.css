@@ -1,0 +1,28 @@
+ol{
+    text-align: center;
+}
+
+ul{
+    list-style-position: inside;
+    text-align: left;
+    margin-left: -30%;
+}
+
+.resume{
+    text-align: center;
+    list-style-position: inside;
+    text-align: left;
+    margin-left: 32%;
+    font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+}
+
+h4{
+    margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 500;
+  line-height: 1.2;
+  text-align: center;
+  margin-left: -46%;
+}
